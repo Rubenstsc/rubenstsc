@@ -3,7 +3,7 @@
 
 - 🔭 Procurando um Estágio como Desenvolvedor Backend Java
 - 🌱 Estudando Java
-- 😄 Pronouns: Ele/Dele
+
 
 <div>
   <a href="https://github.com/Rubenstsc">
